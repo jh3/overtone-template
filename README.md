@@ -2,7 +2,6 @@
 A Leiningen template for Overtone.
 
 ## Usage
---
 
 ### Installation
 
@@ -19,7 +18,6 @@ $ lein new overtone overtone-project
 ```
 
 ## License
---
 
 Copyright © 2015 FIXME
 
