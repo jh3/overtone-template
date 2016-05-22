@@ -1,5 +1,6 @@
 # {{name}}
-This is an Onvertone project designed to ... well, that part is up to you.
+
+This is an Overtone project designed to ...
 
 ## Usage
 
