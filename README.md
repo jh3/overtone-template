@@ -6,7 +6,7 @@ A Leiningen template for Overtone.
 ### Installation
 
 ```
-$ git clone https://github.com/naoji/overtone-template.git
+$ git clone https://github.com/jh3/overtone-template.git
 $ cd overtone-template
 $ lein install
 ```
@@ -18,8 +18,6 @@ $ lein new overtone overtone-project
 ```
 
 ## License
-
-Copyright © 2015 naoji
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
